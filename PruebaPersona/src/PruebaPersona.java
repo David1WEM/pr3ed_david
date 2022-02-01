@@ -4,6 +4,10 @@
  * and open the template in the editor.
  */
 
+/*
+ * Clase PruebaPersona
+ */
+
 import java.util.Scanner;
 
 /**
