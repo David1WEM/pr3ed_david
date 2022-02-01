@@ -4,6 +4,10 @@
  * and open the template in the editor.
  */
 
+/*
+ * Clase Persona
+ */
+
 import java.util.regex.Pattern;
 
 public class Persona {
